@@ -50,8 +50,9 @@ map.set("b",214);
 for(let i of map.keys()){
 //console.log(i);
 }
-for(let i of map.values()){
+for(let i of map.values())
 //console.log(i);
+console.log("for as");
 }
 
 //String to array
@@ -96,5 +97,8 @@ b:4
 // console.log(a);
 // console.log(b);
 // console.log(c);
-
+console.log("For git");
 console.log(new Date("Mon Aug 22 2016 18:20:21 GMT+0800 (CST)").getValue());
+
+
+
