@@ -50,7 +50,7 @@ map.set("b",214);
 for(let i of map.keys()){
 //console.log(i);
 }
-for(let i of map.values())
+for(let i of map.values()){
 //console.log(i);
 console.log("for as");
 }
